@@ -13,7 +13,7 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Don't allow direct access
 
 ?>
 
-<div id="gdpr-box" class="cookies-accept bg-light py-3">
+<div id="gdpr-box" class="cookies-accept bg-light py-3 end-0 bottom-0 start-0">
     <div class="container">
         <div class="row">
             <div class="col-md-10 text-center text-md-start">

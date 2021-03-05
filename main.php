@@ -2,7 +2,7 @@
 /*Plugin Name: bS5 Cookie Consent
 Plugin URI: https://bootscore.me/plugins/bs-cookie-consent/
 Description: This plugin adds a cookie bar to bootScore 5
-Version: 5.0.0.1
+Version: 5.0.0.2
 Author: Bastian Kreiter
 Author URI: https://crftwrk.de
 License: GPLv2
