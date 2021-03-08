@@ -5,7 +5,7 @@ Contributors: craftwerk
 Requires at least: 4.5
 Tested up to: 5.6.2
 Requires PHP: 5.6
-Stable tag: 5.0.0.2
+Stable tag: 5.0.0.3
 License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -38,6 +38,10 @@ Override plugin template by creating a folder your-theme/bs5-cookie-consent and 
 
 
 == Changelog ==
+
+    = 5.0.0.3 - March 08 2021 =
+    
+        * [IMPROVEMENT] Uses zi-1040 class of parent theme instead of own CSS (needs at least bootScore 5.0.0.5)
 
     = 5.0.0.2 - March 05 2021 =
     
