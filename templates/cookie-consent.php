@@ -1,6 +1,6 @@
 <?php
 /**
- * Preloader template.
+ * Cookie consent template.
  *
  * This template can be overriden by copying this file to your-theme/bs5-cookie-consent/cookie-consent.php
  *
