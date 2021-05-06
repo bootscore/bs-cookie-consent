@@ -3,9 +3,9 @@
 Contributors: craftwerk
 
 Requires at least: 4.5
-Tested up to: 5.6.2
+Tested up to: 5.7.1
 Requires PHP: 5.6
-Stable tag: 5.0.0.3
+Stable tag: 5.0.0.4
 License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -38,6 +38,10 @@ Override plugin template by creating a folder your-theme/bs5-cookie-consent and 
 
 
 == Changelog ==
+
+    = 5.0.0.4 - May 06 2021 =
+    
+        * [BUGFIX] Changed class zi-1040 to zi-1050 to overlap offcanvas in Bootstrap 5.0.0
 
     = 5.0.0.3 - March 08 2021 =
     
