@@ -1,11 +1,11 @@
 <?php
-/*Plugin Name: bS5 Cookie Consent
+/*Plugin Name: bS Cookie Consent
 Plugin URI: https://bootscore.me/plugins/bs-cookie-consent/
 Description: This plugin adds a cookie bar to bootScore 5
 Version: 5.0.0.4
 Author: Bastian Kreiter
 Author URI: https://crftwrk.de
-License: GPLv2
+License: MIT License
 */
 
 
@@ -32,9 +32,9 @@ add_action('wp_enqueue_scripts','bs_cookie_consent_scripts');
  *
  * Locate the called template.
  * Search Order:
- * 1. /themes/theme/bs5-cookie-consent/$template_name
+ * 1. /themes/theme/bs-cookie-consent-main/$template_name
  * 2. /themes/theme/$template_name
- * 3. /plugins/bs5-cookie-consent/templates/$template_name.
+ * 3. /plugins/bs-cookie-consent-main/templates/$template_name.
  *
  * @since 1.0.0
  *
@@ -45,9 +45,9 @@ add_action('wp_enqueue_scripts','bs_cookie_consent_scripts');
  */
 function bs_cookie_consent_locate_template( $template_name, $template_path = '', $default_path = '' ) {
 
-	// Set variable to search in bs5-cookie-consent folder of theme.
+	// Set variable to search in bs-cookie-consent-main folder of theme.
 	if ( ! $template_path ) :
-		$template_path = 'bs5-cookie-consent/';
+		$template_path = 'bs-cookie-consent-main/';
 	endif;
 
 	// Set default plugin templates path.

@@ -2,7 +2,7 @@
 /**
  * Cookie consent template.
  *
- * This template can be overriden by copying this file to your-theme/bs5-cookie-consent/cookie-consent.php
+ * This template can be overridden by copying this file to your-theme/bs-cookie-consent-main/cookie-consent.php
  *
  * @author 		Bastian Kreiter
  * @package 	bS5 Preloader
