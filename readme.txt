@@ -1,15 +1,15 @@
-=== bS5 Cookie Consent ===
+=== bS Cookie Consent ===
 
-Contributors: craftwerk
+Contributors: Bastian Kreiter
 
 Requires at least: 4.5
-Tested up to: 5.7.1
+Tested up to: 5.8.1
 Requires PHP: 5.6
 Stable tag: 5.0.0.4
-License: GNU General Public License v2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License: MIT License
+License URI: https://github.com/bootscore/bs-cookie-consent/blob/main/LICENSE
 
-Cookie Consent by Klaus Hartl, MIT License https://github.com/js-cookie/js-cookie Plugin for WordPress, Copyright 2021 Bastian Kreiter.
+Cookie Consent by Klaus Hartl, MIT License https://github.com/js-cookie/js-cookie Plugin for WordPress, Copyright 2021 The bootScore Contributors.
 
 == License & Credits ==
 
