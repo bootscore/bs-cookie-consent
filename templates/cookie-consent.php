@@ -4,8 +4,8 @@
  *
  * This template can be overridden by copying this file to your-theme/bs-cookie-consent-main/cookie-consent.php
  *
- * @author 		Bastian Kreiter
- * @package 	bS5 Preloader
+ * @author 		bootScore
+ * @package 	bS Cookie Consent
  * @version     1.0.1
  */
 
